@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ddiMT4C4Wfs=",
+  "dgSpecHash": "+RMBNlFYQ/A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brett\\Documents\\java\\stdlib\\csharp\\csharp_stdlib\\csharp_stdlib.csproj",
+  "projectFilePath": "C:\\Users\\brett\\Documents\\csharp\\csharp_stdlib\\csharp_stdlib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brett\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\brett\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",

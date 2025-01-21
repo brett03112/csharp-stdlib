@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brett\\Documents\\java\\stdlib\\csharp\\csharp_stdlib\\csharp_stdlib.csproj": {}
+    "C:\\Users\\brett\\Documents\\csharp\\csharp_stdlib\\csharp_stdlib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brett\\Documents\\java\\stdlib\\csharp\\csharp_stdlib\\csharp_stdlib.csproj": {
+    "C:\\Users\\brett\\Documents\\csharp\\csharp_stdlib\\csharp_stdlib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brett\\Documents\\java\\stdlib\\csharp\\csharp_stdlib\\csharp_stdlib.csproj",
+        "projectUniqueName": "C:\\Users\\brett\\Documents\\csharp\\csharp_stdlib\\csharp_stdlib.csproj",
         "projectName": "csharp_stdlib",
-        "projectPath": "C:\\Users\\brett\\Documents\\java\\stdlib\\csharp\\csharp_stdlib\\csharp_stdlib.csproj",
+        "projectPath": "C:\\Users\\brett\\Documents\\csharp\\csharp_stdlib\\csharp_stdlib.csproj",
         "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brett\\Documents\\java\\stdlib\\csharp\\csharp_stdlib\\obj\\",
+        "outputPath": "C:\\Users\\brett\\Documents\\csharp\\csharp_stdlib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
