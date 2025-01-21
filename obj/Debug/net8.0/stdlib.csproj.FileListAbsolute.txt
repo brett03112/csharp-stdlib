@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.AssemblyInfo.cs
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\bin\Debug\net8.0\stdlib.exe
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\bin\Debug\net8.0\stdlib.deps.json
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\bin\Debug\net8.0\stdlib.runtimeconfig.json
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\bin\Debug\net8.0\stdlib.dll
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\bin\Debug\net8.0\stdlib.pdb
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.dll
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\refint\stdlib.dll
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.pdb
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\stdlib.genruntimeconfig.cache
+C:\Users\brett\Documents\java\stdlib\csharp_stdlib\obj\Debug\net8.0\ref\stdlib.dll
