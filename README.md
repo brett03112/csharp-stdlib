@@ -47,7 +47,6 @@ The library includes comprehensive test coverage with test classes for each majo
 ## Project Structure
 - `csharp_stdlib.csproj`: Main project file
 - `csharp_stdlib.sln`: Visual Studio solution file
-- `Program.cs`: Example usage and demos
 
 ## Building and Testing
 The project targets .NET 8.0 and includes both Windows-specific and cross-platform implementations.
